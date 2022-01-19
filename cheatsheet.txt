@@ -1,0 +1,14 @@
+//boilerplate
+https://www.sitepoint.com/a-basic-html5-template/
+--------------------
+//file paths
+https://www.w3schools.com/html/html_filepaths.asp
+----------------------
+//icons
+fontawesome
+-------------------
+//documentation
+https://www.w3schools.com/html/default.asp
+
+
+
